@@ -27,6 +27,8 @@ video contains the video.md file with the link to a video where driving demonstr
 
 ![Funny Photo](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/a083ab65438226795b2c5ab8f770fcecfde17c20/t-photos/Funny%20Photo.jpg)
 
+**Official Photo:**
+
 ![Official Photo](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/18c863669334f5545de85a47536bb8bfa01fd345/t-photos/Official%20Photo.png)
 
 '''
