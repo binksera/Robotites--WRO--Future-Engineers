@@ -92,3 +92,9 @@ Obstacle management for the EV3 robot involves programming it to detect and navi
 ## Schematic Diagram
 
 ![Diagram](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/schemes/FE%20schematic%20diagram.png)
+
+## Code
+
+![code 1](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/fcc8957987335fa212126e429a617433256c61e2/src/code%201.png)
+
+![code 2](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/fcc8957987335fa212126e429a617433256c61e2/src/code%202.png)
