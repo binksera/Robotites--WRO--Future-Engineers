@@ -25,6 +25,21 @@ video contains the video.md file with the link to a video where driving demonstr
 
 **Funny Photo:**
 
+![Funny Photo](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/main/README.md)
+
+![Official Photo](https://github.com/binksera/Robotites--WRO--Future-Engineers/edit/main/README.md)
+
+'''
+'''
+
+## Vehicle Photos
+
+Below are the pictures of the vehicles in different points of views.
+
+**Vehicle Photos:**
+
+![Grid](https://github.com/binksera/Robotites--WRO--Future-Engineers/edit/main/README.md)
+
 
 
 
