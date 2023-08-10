@@ -58,11 +58,11 @@ This repository contains the following engineering materials:
 
 **Mobility Management:**
 
-Servo Motors -  is a type of rotary actuator that allows precise control of angular position, velocity, and acceleration
+Servo Motors -  is a type of rotary actuator that allows precise control of angular position, velocity, and acceleration. We use the servo motor to create a steering mechanism positioned at the forefront of the robot.
 
 ![servo motor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/servo.png)
 
-DC Motors - The core of a servo motor is a DC motor, which generates the mechanical motion. The speed and direction of rotation of the motor shaft depend on the voltage applied to its terminals.
+DC Motors - The core of a servo motor is a DC motor, which generates the mechanical motion. We employed 2 coupled large motors positioned at the rear end. These motors function cohesively to constitute the driving force responsible for propelling the robot in a forward direction.
 
 ![dc motor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/dc%20motor.png)
 
