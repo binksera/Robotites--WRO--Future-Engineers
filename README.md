@@ -58,33 +58,35 @@ This repository contains the following engineering materials:
 
 Servo Motors -  is a type of rotary actuator that allows precise control of angular position, velocity, and acceleration
 
+![servo motor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/servo.png)
+
 DC Motors - The core of a servo motor is a DC motor, which generates the mechanical motion. The speed and direction of rotation of the motor shaft depend on the voltage applied to its terminals.
 
+![dc motor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/dc%20motor.png)
+
 Brick - The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers information coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
+
+![brick](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/brick.png)
+
 
 **Power and Sense Management:**
 
-Brick - The brain of our robot, the Lego Mindstorms EV3 intelligent brick gathers information coming from the sensors, processes it and sends commands to the motors for an efficient and amazing autonomous ride.
-
 Gyro Sensor - The gyro sensor helps in detecting the rate of rotations by measuring the angles. It is placed left to the brick lower body in our robot to assist it in rotations. The gyro sensor detects rotational motion in the plane indicated by the arrows on the top of the sensor housing. The sensor measures the rate of rotation in degrees per second and keeps track of the total angle of rotation in degrees.
+
+![gyro sensor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/gyro.png)
 
 Color Sensor -  A color sensor is a device that detects and distinguishes colors. It uses light sources like LEDs to illuminate objects, and a detector array with light-sensitive elements to capture the reflected or transmitted light. By analyzing the intensity of light at different wavelengths, the sensor calculates the color of the object using algorithms. The output signal represents the detected color and can be communicated to other devices for further processing. 
 
+![color sensor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/color%20sensor.png)
+
 Ultrasonic Sensor - A device that uses sound waves of very high frequency (ultrasonic waves) to measure distances, detect objects, or map environments. It's commonly used in applications such as proximity sensing and object detection.
 
+![ultrasonic sensor](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/v-photos/ultrasonic.png)
 
+**Obstacle Management:**
 
+Obstacle management for the EV3 robot involves programming it to detect and navigate around obstacles using sensors like ultrasonic and color sensors. In the programming environment, you create code to measure distances or detect physical contact with obstacles. Based on sensor inputs, the robot makes decisions and executes avoidance maneuvers by controlling its motors. The engineers utilized one of the sensors or a combination of sensors for more sophisticated obstacle avoidance. Testing and refining the code are important for achieving effective obstacle management with the EV3 robot.
 
+## Schematic Diagram
 
-
-
-
-
-
-## How to prepare the repo based on the template
-
-_Remove this section before the first commit to the repository_
-
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+![Diagram](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/cd57a7ce03726f133361c0f7bf3d5a8cfa8c0a66/schemes/FE%20schematic%20diagram.png)
