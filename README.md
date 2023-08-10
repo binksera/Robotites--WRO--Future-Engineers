@@ -40,6 +40,26 @@ Below are the pictures of the vehicles in different points of views.
 
 ![Grid](https://github.com/binksera/Robotites--WRO--Future-Engineers/edit/main/README.md)
 
+## Engineering Materials
+
+This repository contains the following engineering materials:
+
+- Gyro Sensor
+
+- Color Sensor
+
+- Ultrasonic Sensor
+
+- Servo Motors
+
+- Lego Mindstorm EV3
+
+**Mobility Management:**
+
+Servo Motors -  is a type of rotary actuator that allows precise control of angular position, velocity, and acceleration
+
+
+
 
 
 
