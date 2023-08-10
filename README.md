@@ -38,7 +38,7 @@ Below are the pictures of the vehicles in different points of views.
 
 **Vehicle Photos:**
 
-![Grid](https://github.com/binksera/Robotites--WRO--Future-Engineers/edit/main/README.md)
+![Grid](https://github.com/binksera/Robotites--WRO--Future-Engineers/blob/2769bc2069a367a1bed7dd22e2609399676f91cd/v-photos/Vehicle%20Photos.png)
 
 ## Engineering Materials
 
